@@ -197,5 +197,5 @@ Plot of the (–1×) sliding window average highlighting stabilising regions. Th
 
 
 
-Any problems I am more than happy to chat: conor\_mckay98@aol.com (PhD student @ University of Leeds/AstraZeneca)
+Any problems I am more than happy to chat: conor\_mckay98@aol.com   or  https://www.linkedin.com/in/conor-mckay-babba7171/ (PhD student @ University of Leeds/AstraZeneca)
 
