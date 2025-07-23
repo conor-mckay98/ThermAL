@@ -1,4 +1,4 @@
-ThermAL
+
 ![ThermAL Logo](ThermAL.png)
 
 
