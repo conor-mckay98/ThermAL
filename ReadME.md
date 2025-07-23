@@ -100,12 +100,6 @@ pip install pandas numpy scipy scikit-learn seaborn matplotlib pillow joblib
 
 📁 Project Structure
 
-java
-
-Copy
-
-Edit
-
 /ThermAL
 
 │
